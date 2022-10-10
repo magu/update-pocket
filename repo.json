@@ -66,5 +66,32 @@
     },
     {
         "repo": "ericlewis/openfpga-lunarlander"
+    },
+    {
+        "repo": "opengateware/arcade-galaga"
+    },
+    {
+        "repo": "agg23/openfpga-SNES"
+    },
+    {
+        "repo": "ericlewis/openfpga-dominos"
+    },
+    {
+        "repo": "ericlewis/openfpga-superbreakout"
+    },
+    {
+        "repo": "agg23/openfpga-NES"
+    },
+    {
+        "repo": "ericlewis/openfpga-genesis"
+    },
+    {
+        "repo": "opengateware/arcade-gberet"
+    },
+    {
+        "repo": "opengateware/arcade-pooyan"
+    },
+    {
+        "repo": "opengateware/arcade-bankp"
     }
 ]
