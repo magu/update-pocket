@@ -2,7 +2,7 @@
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 LAUNCHER_VER=1
-SCRIPT_URL=https://raw.githubusercontent.com/rivergillis/update-pocket/main/updater.py
+SCRIPT_URL=https://raw.githubusercontent.com/magu/update-pocket/main/updater.py
 
 echo "Checking dependencies..."
 $(python --version >/dev/null 2>&1)
