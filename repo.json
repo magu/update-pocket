@@ -68,12 +68,6 @@
         "repo": "ericlewis/openfpga-lunarlander"
     },
     {
-<<<<<<< HEAD
-=======
-        "repo": "ericlewis/openfpga-genesis"
-    },
-    {
->>>>>>> 07499e7dbb3ad83c981aa777650cf8c6e38478ac
         "repo": "opengateware/arcade-galaga"
     },
     {
