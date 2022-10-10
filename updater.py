@@ -59,7 +59,7 @@ def download_with_progress(url, destination_fn):
 
 def fetch_repo_list():
     print('Fetching latest repo list...')
-    repo_url = 'https://raw.githubusercontent.com/rivergillis/update-pocket/main/repo.json'
+    repo_url = 'https://raw.githubusercontent.com/magu/update-pocket/main/repo.json'
     try:
         download_with_progress(repo_url, repo_file)
     except:
